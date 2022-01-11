@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">labo4</string>
+    <string name="compass_btn">Boussole</string>
+    <string name="BLE_btn">BLE</string>
+</resources>
