@@ -7,7 +7,7 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "ch.heivd.iict.sym.labo4"
+        applicationId "ch.heigvd.iict.sym.labo4"
         minSdk 21
         targetSdk 31
         versionCode 1

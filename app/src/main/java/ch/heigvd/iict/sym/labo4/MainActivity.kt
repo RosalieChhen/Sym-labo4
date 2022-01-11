@@ -1,4 +1,4 @@
-package ch.heivd.iict.sym.labo4
+package ch.heigvd.iict.sym.labo4
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

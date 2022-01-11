@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="ch.heivd.iict.sym.labo4">
+    package="ch.heigvd.iict.sym.labo4">
 
     <application
         android:allowBackup="true"
@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Labo4">
         <activity
-            android:name=".MainActivity"
+            android:name="ch.heigvd.iict.sym.labo4.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
